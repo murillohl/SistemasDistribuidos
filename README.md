@@ -11,8 +11,8 @@ Linguagem Java
 
 ## Testes a serem implementados
 
-.Recuperacao de falhas do Servidor e do Cliente
-.Perca de mensagens
-.Capacidade de usuarios conectados ao mesmo tempo
-.Latencia das mensagens
-.
+. Recuperacao de falhas do Servidor e do Cliente
+. Perca de mensagens
+. Capacidade de usuarios conectados ao mesmo tempo
+. Latencia das mensagens
+
