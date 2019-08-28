@@ -6,8 +6,8 @@ A ideia inicial é criar uma sala de bate-papo em grupo(servidor) onde varios us
 
 ## Componentes 
 
-Protocolo de comunicação TCP/IP e UDP.
-Linguagem Java
+- Protocolo de comunicação TCP/IP e UDP.
+- Linguagem Java
 
 ## Testes a serem implementados
 
