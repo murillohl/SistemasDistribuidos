@@ -2,7 +2,7 @@
 
 ## Formalização do projeto
 
-A ideia inicial é criar uma sala de bate-papo em grupo(servidor) onde varios usuarios(clientes) possam conversar em uma mesma sala de chat, ou realizar trocas de mensagens privadas entre si(cliente-cliente). Sera utilizado a arquitetura Cliente-Servidor utilizando Sockets.
+A ideia inicial é criar uma sala de bate-papo em grupo(servidor) onde varios usuarios(clientes) possam conversar em uma mesma sala de chat, ou escolher conectar-se com outro usuario para trocas de mensagens privadas entre eles apenas(cliente-cliente). Sera utilizado a arquitetura Cliente-Servidor utilizando Sockets.
 
 ## Componentes 
 
@@ -15,4 +15,5 @@ A ideia inicial é criar uma sala de bate-papo em grupo(servidor) onde varios us
 - Perca de mensagens
 - Capacidade de usuarios conectados ao mesmo tempo
 - Latencia das mensagens
+- Recuperacao de mensagens anteriores
 
