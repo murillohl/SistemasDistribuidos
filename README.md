@@ -1,3 +1,6 @@
+## Murillo Henrique Pessoa de Lima - 11521ECP005
+## Projeto de Sistemas Distribuidos
+
 # Chat em grupo
 
 ## Formalização do projeto
